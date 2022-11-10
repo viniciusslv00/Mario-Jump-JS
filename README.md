@@ -2,11 +2,9 @@
  
 Jogo do Mario feito com Java Script
 
-Pode acessa-lo clicando aqui:
+Pode acessar-lo clicando aqui:
+<a href="https://mario-jump-js.vercel.app/">Mario Jump</a>
 
-```
-https://mario-jump-js.vercel.app/
-```
 <div style="width: 500px; height: 500px;">
 <img src="./assets/jogo do mario.png" class="mario">
 </div>
